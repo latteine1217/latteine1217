@@ -1,4 +1,8 @@
 ## Hi there 👋
+- My name is Junyi Li from Taiwan.
+- A master student.
+- 🔭 I’m currently working on PINNs with CFD.
+- If anyone want to discuss about your idea, feel free to contact me.
 
 <!--
 **latteine1217/latteine1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
