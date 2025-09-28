@@ -1,7 +1,8 @@
 ## Hi there 👋
 - My name is Junyi Li from Taiwan.
-- A master student.
-- 🔭 I’m currently working on PINNs with CFD.
+- A master student in National TsingHua University(NTHU).
+- 🔭 I’m currently working on PINNs with fluid dynamics.
+- Interest in AI4Science, digital twin and physics modeling.
 - If anyone want to discuss about your idea, feel free to contact me.
 
 <!--
