@@ -26,10 +26,10 @@
 ## 🤝 Connect with Me
 <p>
   <a href="mailto:felix.tc.tw@gmail.com">
-    <img src="https://img.shields.io/badge/Email-your_email@example.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/felix.tc.tw@gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/latteine1217">
-    <img src="https://img.shields.io/badge/GitHub-your_github_id-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-latteine1217-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/junyi-li-a76068340">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
