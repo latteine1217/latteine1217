@@ -1,9 +1,51 @@
-## Hi there 👋
-- My name is Junyi Li from Taiwan.
-- A master student in National TsingHua University(NTHU).
-- 🔭 I’m currently working on PINNs with fluid dynamics.
-- Interest in AI4Science, digital twin and physics modeling.
-- If anyone want to discuss about your idea, feel free to contact me.
+<h1 align="center">Hi 👋, I'm Junyi Li</h1>
+
+<p align="center">
+  <a href="https://www.nthu.edu.tw/" target="_blank"><img src="https://img.shields.io/badge/NTHU-Master%20Student-0b7285?style=for-the-badge" /></a>
+  <img src="https://img.shields.io/badge/Taiwan-%F0%9F%87%B9%F0%9F%87%BC-2f9e44?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/CFD-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PINNs-111827?style=for-the-badge" />
+</p>
+
+---
+
+## 🧑‍💻 About Me
+- 👋 Hi there! My name is **Junyi Li** from **Taiwan**.
+- 🎓 A master student in **National Tsing Hua University (NTHU)**.
+- 🔭 Currently working on **PINNs for fluid dynamics**.
+- 🧠 Interests: **AI4Science**, **Digital Twin**, **Physics Modeling**.
+- 🤝 If you want to discuss ideas or collaboration, feel free to contact me.
+
+---
+
+## 🤝 Connect with Me
+<p>
+  <a href="mailto:your_email@example.com">
+    <img src="https://img.shields.io/badge/Email-your_email@example.com-d14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/your_github_id">
+    <img src="https://img.shields.io/badge/GitHub-your_github_id-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://your-blog-link">
+    <img src="https://img.shields.io/badge/Blog-Personal%20Site-0b7285?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 📈 GitHub Stats (Optional)
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=your_github_id&show_icons=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_github_id&layout=compact" />
+</p>
 
 <!--
 **latteine1217/latteine1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
