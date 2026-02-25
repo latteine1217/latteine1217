@@ -36,13 +36,6 @@
   </a>
 </p>
 
----
-
-## 📈 GitHub Stats (Optional)
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=latteine1217&show_icons=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=latteine1217&layout=compact" />
-</p>
 
 <!--
 **latteine1217/latteine1217** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
