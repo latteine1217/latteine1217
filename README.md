@@ -16,10 +16,11 @@
 
 ## 🧑‍💻 About Me
 - 👋 Hi there! My name is **Junyi Li** from **Taiwan**.
-- 🎓 A master student in **National Tsing Hua University (NTHU)**.
-- 🔭 Currently working on **PINNs for fluid dynamics**.
+- 🎓 2nd year master student in **National Tsing Hua University (NTHU)** Applied CFD & Heat Transfer Lab.
+- 🔭 Currently working on **Turbulence flow reconstruction with PINNs/PINOs**.
 - 🧠 Interests: **AI4Science**, **Digital Twin**, **Physics Modeling**, **CFD Simulation**.
 - 🤝 If you want to discuss ideas or collaboration, feel free to contact me.
+- Searching for offer.
 
 ---
 
